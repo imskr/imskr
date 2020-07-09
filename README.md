@@ -9,6 +9,6 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 💬 Ask me about machine learning, web developmet, and career.
 - 📫 How to reach me: shubhamkrai123@gmail.com, [@TheTweetOfSKR](https://twitter.com/TheTweetOfSKR)
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I do Boxing 🥊 in my free time.
+- ⚡ Fun fact: I do Boxing 🥊
 
 [My Site](https://shubhamkumar.live) • [Twitter](https://twitter.com/TheTweetOfSKR) • [Linkedin](https://www.linkedin.com/in/imskr)

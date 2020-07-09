@@ -1,6 +1,6 @@
 ### Hi, I'm Shubham Kumar 👋
 
-I work at the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an **Google Summer Of Code Student @Mozilla**. 
+I work at the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. 
 
 - 🔭 I’m currently working on ML projects.
 - 🌱 I’m currently learning GAN, Reactjs, and how to [write](https://medium.com/@shubhamkrai123).

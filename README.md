@@ -11,6 +11,8 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do Boxing 🥊
 
+![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=imskr&show_icons=true&hide_border=true)
+
 <br>
 <div>
   <a href="https://twitter.com/TheTweetOfSKR">

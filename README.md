@@ -11,8 +11,7 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do Boxing 🥊
 
-<br />
-<br />
+<br>
 <a href="https://twitter.com/TheTweetOfSKR">
   <img align="left" alt="Shubham Kumar Rai | Twitter" width="21px" src="https://raw.githubusercontent.com/imskr/imskr/master/assets/twitter.svg" />
 </a>

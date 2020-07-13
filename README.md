@@ -2,6 +2,8 @@
 
 I work at the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. 
 
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 - 🔭 I’m currently working on ML projects.
 - 🌱 I’m currently learning GAN, Reactjs, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
 - 👯 I’m willing to collaborate on building communitites, and research projects in ML.
@@ -10,8 +12,6 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 📫 How to reach me: shubhamkrai123@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do Boxing 🥊
-
-![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=imskr&show_icons=true&hide=["commits"])
 
 <br>
 <a href="https://twitter.com/TheTweetOfSKR">
@@ -22,5 +22,8 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 </a>
 <a href="https://www.codechef.com/users/imskr">
   <img align="left" alt="Shubham's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://medium.com/@shubhamkrai123">
+  <img align="left" alt="Shubham's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 

@@ -14,14 +14,13 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 ![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=imskr&show_icons=true&hide=["commits"])
 
 <br>
-<div>
-  <a href="https://twitter.com/TheTweetOfSKR">
-    <img align="left" alt="Shubham Kumar Rai | Twitter" width="21px" src="https://raw.githubusercontent.com/imskr/imskr/master/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/imskr">
-    <img align="left" alt="Shubham Kumar | Linkedin" width="24px" src="https://raw.githubusercontent.com/imskr/imskr/master/assets/linkedin.png" />
-  </a>
-  <a href="https://medium.com/@shubhamkrai123">
-    <img align="left" alt="Shubham Kumar | Medium" width="30px" src="https://raw.githubusercontent.com/imskr/imskr/master/assets/medium.png" />
-  </a>
-</div>
+<a href="https://twitter.com/TheTweetOfSKR">
+  <img align="left" alt="Shubham Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/imskr/">
+  <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.codechef.com/users/imskr">
+  <img align="left" alt="Shubham's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+

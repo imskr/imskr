@@ -26,4 +26,7 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 <a href="https://medium.com/@shubhamkrai123">
   <img align="left" alt="Shubham's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
+<a href="https://www.buymeacoffee.com/imskr">
+  <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
+</a>
 

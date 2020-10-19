@@ -12,6 +12,7 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 📫 How to reach me: shubhamkrai123@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do Boxing 🥊
+- 📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)
 
 <br>
 <a href="https://twitter.com/TheTweetOfSKR">

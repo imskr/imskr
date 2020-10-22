@@ -2,7 +2,7 @@
 
 I work at the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. 
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="300px" src="./assets/skr-sig.gif" />
 
 - 🔭 I’m currently working on ML projects.
 - 🌱 I’m currently learning GAN, Reactjs, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).

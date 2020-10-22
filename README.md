@@ -1,18 +1,17 @@
 ### Hi, I'm Shubham Kumar 👋
 
-I work at the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and X **Google Summer Of Code Developer [@Mozilla](https://github.com/mozilla)**. 
+I work at the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and **Google Summer Of Code 2020 Developer [@Mozilla](https://github.com/mozilla)**. 
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
 - 🔭 I’m currently working on ML projects.
 - 🌱 I’m currently learning GAN, Reactjs, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
 - 👯 I’m willing to collaborate on building communitites, and research projects in ML.
-- 🤔 I’m looking for help in form of contributions to the [`gatsby-starter-plasma`](https://github.com/imskr/gatsby-starter-plasma) repository.
 - 💬 Ask me about machine learning, web development, and tech related career advice.
 - 📫 How to reach me: shubhamkrai123@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do Boxing 🥊
-- 📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)
+- **📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)**
 
 <br>
 <a href="https://twitter.com/TheTweetOfSKR">

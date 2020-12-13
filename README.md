@@ -8,10 +8,10 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 🌱 I’m currently learning GAN, Reactjs, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
 - 👯 I’m willing to collaborate on building communitites, and research projects in ML.
 - 💬 Ask me about machine learning, web development, and tech related career advice.
-- 📫 How to reach me: shubhamkrai123@gmail.com
+- 📫 How to reach me: shubhamkrai123@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I do Boxing 🥊
-- **📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)**
+- ⚡ Fun fact: I do Boxing 🥊.
+- **📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)**.
 
 <br>
 <a href="https://twitter.com/TheTweetOfSKR">

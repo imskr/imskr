@@ -20,9 +20,7 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 <a href="https://www.linkedin.com/in/imskr/">
   <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.codechef.com/users/imskr">
-  <img align="left" alt="Shubham's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
+
 <a href="https://medium.com/@shubhamkrai123">
   <img align="left" alt="Shubham's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>

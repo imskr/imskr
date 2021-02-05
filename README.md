@@ -1,13 +1,12 @@
 ### Hi, I'm Shubham Kumar 👋
 
-I work at the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and **Google Summer Of Code 2020 Developer [@Mozilla](https://github.com/mozilla)**. 
+I love to contribute to open source projects. I also write about software engineering, learning, and career **to help readers.** Currently an undergrad CS student and former **Google Summer Of Code 2020 Developer [@Mozilla](https://github.com/mozilla)**. 
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
-- 🔭 I’m currently working on ML projects.
-- 🌱 I’m currently learning GAN, Reactjs, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
-- 👯 I’m willing to collaborate on building communitites, and research projects in ML.
-- 💬 Ask me about machine learning, web development, and tech related career advice.
+- 🔭 I’m currently working on full stack development projects.
+- 🌱 I’m currently learning Go, Rust, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
+- 👯 I’m willing to collaborate on building communitites, and research projects.
 - 📫 How to reach me: shubhamkrai123@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do Boxing 🥊

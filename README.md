@@ -4,8 +4,8 @@ I love to contribute to open source projects. I also write about software engine
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
-- 🔭 I’m currently working on full stack development projects.
-- 🌱 I’m currently learning Go, Rust, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
+- 🔭 I’m currently working on backend development projects.
+- 🌱 I’m currently learning Go, Ruby on Rails, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
 - 👯 I’m willing to collaborate on building communitites, and research projects.
 - 📫 How to reach me: shubhamkrai123@gmail.com
 - 😄 Pronouns: He/Him.

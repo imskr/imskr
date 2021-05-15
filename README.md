@@ -9,7 +9,6 @@ I love to contribute to open source projects. I also write about software engine
 - 👯 I’m willing to collaborate on building communitites, and research projects.
 - 📫 How to reach me: shubhamkrai123@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I do Boxing 🥊
 - **📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)**
 
 <br>

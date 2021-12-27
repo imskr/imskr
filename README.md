@@ -1,4 +1,7 @@
-### Hi, I'm Shubham Kumar 👋
+<h1 align="center">
+    <em>Hey!</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm Shubham Kumar</em>👨‍💻 
+</h1>
+
 
 I love to contribute to open source projects. I also write about software engineering, learning, and career **to help readers.** Currently an undergrad CS student. I worked as **Google Summer of Code 2021 Developer at [GitLab](https://gitlab.com)** and **Google Summer of Code 2020 Developer [@Mozilla](https://github.com/mozilla)**. 
 
@@ -28,3 +31,12 @@ I love to contribute to open source projects. I also write about software engine
 <a href="https://gitlab.com/imskr">
   <img align="left" alt="Shubham Kumar | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
+
+
+### Show some ❤️ by starring some of the repositories!
+
+### Contributions and PRs are Welcome!
+ 
+<h1 align="center">
+    <code><em>👾 Thank You for Scrolling With Peace!!!👾</em></code>
+</h1>

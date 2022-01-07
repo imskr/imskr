@@ -1,6 +1,6 @@
 ### Hi, I'm Shubham Kumar 👋
 
-I love to contribute to open source projects. I also write about software engineering, learning, and career **to help readers.** Currently an undergrad CS student. I worked as **Google Summer of Code 2021 Developer at [GitLab](https://gitlab.com)** and **Google Summer of Code 2020 Developer [@Mozilla](https://github.com/mozilla)**. 
+I love to contribute to open source projects. I also write about software engineering, learning, and career **to help readers.** Currently an undergrad CS student. I worked as **Google Summer of Code 2021 Developer at [GitLab](https://gitlab.com)** and **Google Summer of Code 2020 Developer at [@Mozilla](https://github.com/mozilla)**. 
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
@@ -10,6 +10,8 @@ I love to contribute to open source projects. I also write about software engine
 - 📫 How to reach me: shubhamkrai123@gmail.com
 - 😄 Pronouns: He/Him.
 - **📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)**
+
+- **Youtube: [Subscribe](https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w)**
 
 <br>
 <a href="https://twitter.com/TheTweetOfSKR">

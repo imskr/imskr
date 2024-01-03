@@ -6,7 +6,7 @@ I love to contribute to open-source projects. I also write about software engine
 
 - 🔭 I’m currently working on backend development projects.
 - 🌱 I’m currently learning Go, Ruby on Rails, and helping the tech community through my [writing](https://medium.com/@imskr).
-- 👯 I’m willing to collaborate on building communities, and research projects.
+- 👯 I’m willing to collaborate on building communities, and open source projects.
 - 📫 How to reach me: shubhamkrai123@gmail.com
 - 😄 Pronouns: He/Him.
 - **📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)**

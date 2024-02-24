@@ -13,6 +13,8 @@ I love to contribute to open-source projects. I also write about software engine
 
 - **Youtube: [Subscribe](https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w)**
 
+🦊 &nbsp;**Open Source Contributions:**
+- GitLab merge requests merged: <!-- MERGED_PULL_REQUESTS_COUNT -->
 
 📕 &nbsp;**Latest Blog Posts:**
 <!-- BLOG-LIST-START -->

@@ -15,7 +15,7 @@ I love to contribute to open-source projects. I also write about software engine
 
 🦊 &nbsp;**Open Source Contributions:**
 <!-- MERGED_PULL_REQUESTS_START -->
-Pull requests merged in gitlab: 39
+Pull requests merged in gitlab: 40
 <!-- MERGED_PULL_REQUESTS_END -->
 
 📕 &nbsp;**Latest Blog Posts:**

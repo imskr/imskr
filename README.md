@@ -15,7 +15,7 @@ I love to contribute to open-source projects. I also write about software engine
 
 🦊 &nbsp;**Open Source Contributions:**
 <!-- MERGED_PULL_REQUESTS_START -->
-[![](https://badgen.net/badge/mozilla%2Ffxa/20%20pull%20requests%20merged/orange?icon=github)]()
+[![](https://badgen.net/badge/mozilla%2Ffxa/20%20pull%20requests%20merged/orange?icon=github)](https://github.com/mozilla/fxa/pulls?q=is:pr+author:imskr+is:merged)
 <!-- MERGED_PULL_REQUESTS_END -->
 
 📕 &nbsp;**Latest Blog Posts:**

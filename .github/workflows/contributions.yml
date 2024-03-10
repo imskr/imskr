@@ -15,7 +15,7 @@ jobs:
       - name: Contributions Badge
         uses: imskr/contributions-badge@main
         with:
-          organization: "mozilla"
-          project: "fxa"
-          platform: "github"
+          organization: "gitlab-org"
+          project: "gitlab"
+          platform: "gitlab"
           username: "imskr"

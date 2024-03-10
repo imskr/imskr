@@ -17,4 +17,5 @@ jobs:
         with:
           organization: "gitlab-org"
           project: "gitlab"
+          platform: "gitlab"
           username: "imskr"

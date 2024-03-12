@@ -13,12 +13,12 @@ I love to contribute to open-source projects. I also write about software engine
 
 - **Youtube: [Subscribe](https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w)**
 
-🦊 &nbsp;**Open Source Contributions:**
+#### 🦊 &nbsp;**Open Source Contributions:**
 <!-- MERGED_PULL_REQUESTS_START -->
 [![](https://badgen.net/badge/gitlab-org%2Fgitlab/42%20pull%20requests%20merged/orange?icon=gitlab)](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=merged&author_username=imskr)
 <!-- MERGED_PULL_REQUESTS_END -->
 
-📕 &nbsp;**Latest Blog Posts:**
+#### 📕 &nbsp;**Latest Blog Posts:**
 <!-- BLOG-LIST-START -->
 - [Deploy Your Java Spring Boot Application on AWS EC2 Using GitHub Actions and Docker](https://medium.com/geekculture/deploy-your-spring-boot-java-application-to-aws-ec2-using-github-actions-and-docker-e28c456a4b1a?source=rss-2612c96405e4------2)
 

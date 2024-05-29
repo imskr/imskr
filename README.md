@@ -15,7 +15,7 @@ I love to contribute to open-source projects. I also write about software engine
 
 #### 🦊 &nbsp;**Open Source Contributions:**
 <!-- MERGED_PULL_REQUESTS_START -->
-[![](https://badgen.net/badge/gitlab-org%2Fgitlab/46%20pull%20requests%20merged/orange?icon=gitlab)](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=merged&author_username=imskr)
+[![](https://badgen.net/badge/gitlab-org%2Fgitlab/47%20pull%20requests%20merged/orange?icon=gitlab)](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=merged&author_username=imskr)
 <!-- MERGED_PULL_REQUESTS_END -->
 
 #### 📕 &nbsp;**Latest Blog Posts:**

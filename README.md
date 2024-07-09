@@ -1,15 +1,15 @@
 ### Hi, I'm Shubham Kumar 👋
 
-I love to contribute to open-source projects. I also write about software engineering, learning, and career **to help readers.** I am based in Berlin, Germany. I worked as **Google Summer of Code 2021 Developer at [GitLab](https://gitlab.com)** and **Google Summer of Code 2020 Developer at [@Mozilla](https://github.com/mozilla)**. 
+I am a Backend Engineer at [GitLab](https://gitlab.com). I love to contribute to open-source projects. I also write about software engineering, learning, and career **to help readers.** I am located in Berlin, Germany, and originally from Bihar, India. I previously worked as **Google Summer of Code 2021 Developer at [GitLab](https://gitlab.com)** and **Google Summer of Code 2020 Developer at [@Mozilla](https://github.com/mozilla)**. 
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
 - 🔭 I’m currently working on backend development projects.
-- 🌱 I’m currently learning Go, Ruby on Rails, and helping the tech community through my [writing](https://medium.com/@imskr).
+- 🌱 I’m learning Go, Ruby on Rails, and helping the tech community through my [writing](https://medium.com/@imskr).
 - 👯 I’m willing to collaborate on building communities, and open-source projects.
-- 📫 How to reach me: shubhamkrai123@gmail.com
+- 📫 How to reach me: hello@shubham-kumar.com
 - 😄 Pronouns: He/Him.
-- **📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)**
+- **📫 Newsletter: [Join](https://shubham-kumar.com)**
 
 - **Youtube: [Subscribe](https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w)**
 

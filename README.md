@@ -27,10 +27,6 @@ I am a Backend Engineer at [GitLab](https://gitlab.com). I love to contribute to
 <!-- BLOG-LIST-END -->
 
 <br>
-
-![imskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=imskr&theme=moltack&show_icons=true)
-
-<br>
 <a href="https://twitter.com/TheTweetOfSKR">
   <img align="left" alt="Shubham Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
